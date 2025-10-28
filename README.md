@@ -23,7 +23,7 @@ I enjoy writing clean, maintainable, and scalable code.
 ### 🚀 About Me
 - 🌱 Currently developing projects using **C# / ASP.NET**  
 - 🎯 Goal: Becoming a modern **Full-Stack Developer**  
-- ⚙️ Fundamentals: **C++**, **Python**, **HTML**, **CSS**, **Bootstrap**  
+- ⚙️ Fundamentals: **C++**, **Python**, **HTML**, **CSS**, **Bootstrap**, **JavaScript**
 - 🎮 In my free time, I enjoy making small game projects.  
 
 ---
@@ -68,7 +68,7 @@ Temiz, sürdürülebilir ve anlaşılır kod yazmayı seviyorum.
 ### 🚀 Hakkımda
 - 🌱 Şu anda **C# / ASP.NET** ile web projeleri geliştiriyorum.  
 - 🎯 Hedefim: modern teknolojilerle **Full-Stack Developer** olmak.  
-- ⚙️ Temel bilgilerim: **C++**, **Python**, **HTML**, **CSS**, **Bootstrap**  
+- ⚙️ Temel bilgilerim: **C++**, **Python**, **HTML**, **CSS**, **Bootstrap**, **JavaScript**  
 - 🎮 Boş zamanlarımda mini oyunlar geliştiriyorum.
 
 ---
