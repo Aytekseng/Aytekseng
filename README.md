@@ -21,16 +21,16 @@ I enjoy writing clean, maintainable, and scalable code.
 ---
 
 ### 🚀 About Me
-- 🌱 Currently developing projects using **C# / ASP.NET**  
-- 🎯 Goal: Becoming a modern **Full-Stack Developer**  
-- ⚙️ Fundamentals: **C++**, **Python**, **HTML**, **CSS**, **Bootstrap**, **JavaScript**
+- 🌱 Currently developing projects using **.NET (C#) & Spring Boot (Java)** for Backend, and **React (TypeScript/JS)** for Frontend.
+- 🎯 Goal: Becoming a modern and versatile **Full-Stack Developer**.  
+- ⚙️ Fundamentals: **C++, Python, HTML, CSS, Bootstrap**.
 - 🎮 In my free time, I enjoy making small game projects.  
 
 ---
 
 ### 🛠️ Technologies I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,html,css,bootstrap,git,github,vscode,visualstudio" />
 </p>
 
 ---
@@ -66,16 +66,16 @@ Temiz, sürdürülebilir ve anlaşılır kod yazmayı seviyorum.
 ---
 
 ### 🚀 Hakkımda
-- 🌱 Şu anda **C# / ASP.NET** ile web projeleri geliştiriyorum.  
-- 🎯 Hedefim: modern teknolojilerle **Full-Stack Developer** olmak.  
-- ⚙️ Temel bilgilerim: **C++**, **Python**, **HTML**, **CSS**, **Bootstrap**, **JavaScript**  
+- 🌱 Şu anda Backend tarafında **.NET (C#) & Spring Boot (Java)**, Frontend tarafında ise **React (TypeScript/JS)** kullanarak projeler geliştiriyorum.  
+- 🎯 Hedefim: modern teknolojilerle çok yönlü bir **Full-Stack Developer** olmak.  
+- ⚙️ Temel bilgilerim: **C++, Python, HTML, CSS, Bootstrap**.  
 - 🎮 Boş zamanlarımda mini oyunlar geliştiriyorum.
 
 ---
 
 ### 🛠️ Kullandığım Teknolojiler
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,html,css,bootstrap,git,github,vscode,visualstudio" />
 </p>
 
 ---
